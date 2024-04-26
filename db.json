@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "id" : "sfsfsdfsdfsdf",
+      "nome" : "Guilherme Mendes da Cunha",
+      "telefone" : "1234567"
+    },
+    {
+      "id" : "46546fsdfsdf",
+      "nome" : "Maria da Silva",
+      "telefone" : "244466666"
+    }
+  ]
+}
